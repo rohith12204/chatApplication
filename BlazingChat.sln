@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingChat.Server", "BlazingChat\BlazingChat\BlazingChat.Server.csproj", "{52D91C4A-D177-4182-BD66-2DFAA17E63FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingChat.Client", "BlazingChat\BlazingChat.Client\BlazingChat.Client.csproj", "{0B4DD2EF-C6F1-447F-ABCD-0705184CA567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingChat.Shared", "BlazingChat.Shared\BlazingChat.Shared.csproj", "{2A2C3DC8-9576-4858-9CF4-AD3633EDBD02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Screenshots\3. Chat (user 1).png = ..\..\..\Pictures\Screenshots\3. Chat (user 1).png
+		..\..\..\Pictures\Screenshots\2. Home page.png = ..\..\..\Pictures\Screenshots\2. Home page.png
+		..\..\..\Pictures\Screenshots\1. Login page.png = ..\..\..\Pictures\Screenshots\1. Login page.png
+		..\..\..\Pictures\Screenshots\4. Chat (user 2).png = ..\..\..\Pictures\Screenshots\4. Chat (user 2).png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D91C4A-D177-4182-BD66-2DFAA17E63FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D91C4A-D177-4182-BD66-2DFAA17E63FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D91C4A-D177-4182-BD66-2DFAA17E63FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D91C4A-D177-4182-BD66-2DFAA17E63FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4DD2EF-C6F1-447F-ABCD-0705184CA567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4DD2EF-C6F1-447F-ABCD-0705184CA567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4DD2EF-C6F1-447F-ABCD-0705184CA567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4DD2EF-C6F1-447F-ABCD-0705184CA567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2C3DC8-9576-4858-9CF4-AD3633EDBD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2C3DC8-9576-4858-9CF4-AD3633EDBD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2C3DC8-9576-4858-9CF4-AD3633EDBD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2C3DC8-9576-4858-9CF4-AD3633EDBD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D998644E-6F51-4DB4-9B15-147580550738}
+	EndGlobalSection
+EndGlobal
